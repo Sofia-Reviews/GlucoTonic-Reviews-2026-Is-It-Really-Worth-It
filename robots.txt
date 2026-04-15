@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sofia-reviews.github.io/GlucoTonic-Reviews-2026-Is-It-Really-Worth-It/sitemap.xml
